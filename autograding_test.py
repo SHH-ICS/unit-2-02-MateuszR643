@@ -1,4 +1,4 @@
 import program;
 
 def test_program():
-    assert program.myFunction() == "Hello World!"
+    assert program.myFunction("Mateusz") == "Hello Mateusz!"
